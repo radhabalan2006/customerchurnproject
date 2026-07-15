@@ -224,7 +224,7 @@ Some improvements that can be added in future versions include:
 
 ## 👨‍💻 Author
 
-**Barath Balan**
+**Radha B**
 
 B.Tech – Artificial Intelligence and Data Science
 
